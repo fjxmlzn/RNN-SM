@@ -22,6 +22,6 @@ Authors: Zinan Lin, Yongfeng Huang
 
   [algorithms/IDC.py](https://github.com/fjxmlzn/RNN-SM/blob/master/algorithms/IDC.py): our implementation of [Detection of quantization index modulation steganography in G. 723.1 bit stream based on quantization index sequence analysis](https://link.springer.com/article/10.1631%2Fjzus.C1100374?LI=true)
 
-* SS_QCCN
+* SS-QCCN
 
   [algorithms/SS_QCCN.py](https://github.com/fjxmlzn/RNN-SM/blob/master/algorithms/SS_QCCN.py): our implementation of [Steganalysis of QIM steganography in low-bit-rate speech signals](http://ieeexplore.ieee.org/abstract/document/7867798/)
