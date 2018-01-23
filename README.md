@@ -1,6 +1,6 @@
 # RNN-SM: Fast Steganalysis of VoIP Streams Using Recurrent Neural Network
 
-Authors: Zinan Lin, Yongfeng Huang
+Authors: [Zinan Lin](http://www.andrew.cmu.edu/user/zinanl/) ([Carnegie Mellon University](https://www.cmu.edu/)), [Yongfeng Huang](http://www.tsinghua.edu.cn/publish/ee/4157/2010/20101217182714916942750/20101217182714916942750_.html) ([Tsinghua University](http://www.tsinghua.edu.cn/publish/newthuen/index.html))
 
 ## Steganalysis speech dataset
 
@@ -16,7 +16,9 @@ Authors: Zinan Lin, Yongfeng Huang
 
 * RNN-SM
 
-  [algorithms/RNN_SM.py](https://github.com/fjxmlzn/RNN-SM/blob/master/algorithms/RNN_SM.py): our proposed RNN-SM algorithms.
+  [algorithms/pruned_RNN_SM.py](https://github.com/fjxmlzn/RNN-SM/blob/master/algorithms/pruned_RNN_SM.py): our proposed pruned RNN-SM algorithms.
+
+  [algorithms/full_RNN_SM.py](https://github.com/fjxmlzn/RNN-SM/blob/master/algorithms/full_RNN_SM.py): our proposed full RNN-SM algorithms.
 
 * IDC
 
