@@ -2,7 +2,7 @@
 #-*-coding:utf-8 -*-
 
 '''
-Implementation of our RNN-SM algorithm
+Implementation of our full RNN-SM algorithm
 -------------
 Based on paper:
     RNN-SM: Fast Steganalysis of VoIP Streams Using Recurrent Neural Network
@@ -69,7 +69,7 @@ def save_variable(file_name, variable):
 	
     
 '''
-SS-QCCN training and testing
+Full RNN-SM training and testing
 '''
 if __name__ == '__main__':
 	all_files = [(item, folder["class"]) for folder in FOLDERS for item in get_file_list(folder["folder"])]
