@@ -1,11 +1,11 @@
 # RNN-SM: Fast Steganalysis of VoIP Streams Using Recurrent Neural Network
 
 
-[[ paper (IEEE) ](http://ieeexplore.ieee.org/document/8292900/)] 
-[[ paper (pdf) ](http://www.andrew.cmu.edu/user/zinanl/publications/rnn-sm.pdf)] 
-[[ code ](https://github.com/fjxmlzn/RNN-SM#steganalysis-algorithms)] 
-[[ dataset ](https://github.com/fjxmlzn/RNN-SM#steganalysis-speech-dataset)] 
-[[ website ](https://github.com/fjxmlzn/RNN-SM)]
+**[[paper (IEEE)](http://ieeexplore.ieee.org/document/8292900/)]**
+**[[paper (pdf)](http://www.andrew.cmu.edu/user/zinanl/publications/rnn-sm.pdf)]**
+**[[code](https://github.com/fjxmlzn/RNN-SM#steganalysis-algorithms)]**
+**[[dataset](https://github.com/fjxmlzn/RNN-SM#steganalysis-speech-dataset)]**
+**[[website](https://github.com/fjxmlzn/RNN-SM)]**
 
 **Authors:** 
 [Zinan Lin](http://www.andrew.cmu.edu/user/zinanl/) ([Carnegie Mellon University](https://www.cmu.edu/)), 
