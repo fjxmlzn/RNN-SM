@@ -15,7 +15,7 @@ import numpy as np
 import os, pickle, random, datetime
 
 from keras.models import Sequential
-from keras.layers import Dense, Activation, LSTM
+from keras.layers import Dense, Activation, LSTM, Flatten
 
 FOLDERS = [
 	{"class" : 1, "folder" : "/data1/linzn/data/ch_g729a_100_10000ms_FEAT"}, # The folder that contains positive data files.
